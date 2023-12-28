@@ -18,8 +18,9 @@ inspect and verify the outcome of contract runs.
 | --------------- | --------------------------------------------------- | ----------------------------------------- |
 | SubCurrency     | [subcurrency.cll](examples/subcurrency.cll)         | [subcurrency.py](examples/subcurrency.py) |
 | Namecoin        | [namecoin.cll](examples/namecoin.cll)               | [namecoin.py](examples/namecoin.py)       |
-| Datafeed        | [datafeed.cll](examples/datafeed.cll)               |                                           |
-| Hedging         | [hedging.cll](examples/hedging.cll)                 |                                           |
+| Datafeed        | [datafeed.cll](examples/datafeed.cll)               | [datafeed.py](examples/datafeed.py)       |
+| Hedging         | [hedging.cll](examples/hedging.cll)                 | [hedging.py](examples/hedging.py)         |
+| Fountain        | [fountain.cll](examples/fountain.cll)               | [fountain.py](examples/fountain.py)       |
 | Egalitarian DAO | [egalitarian-dao.cll](examples/egalitarian-dao.cll) |                                           |
 
 
